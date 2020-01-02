@@ -79,7 +79,7 @@ $(document).ready(function() {
                 $('meta[name="description"]').attr("content", "Còn bao nhiêu ngày nữa đến Tết Nguyên Đán " + g + "?"),
                 $('meta[property="og\\:title"]').attr("content", p),
                 $('meta[property="og\\:description"]').attr("content", "Còn bao nhiêu ngày nữa đến Tết Nguyên Đán " + g + "?"),
-                $('meta[property="og\\:image"]').attr("content", "/demnguoctet.github.io/icon.png");
+                $('meta[property="og\\:image"]').attr("content", "/newyearcountdown.github.io/icon.png");
                 break
             }
         }
