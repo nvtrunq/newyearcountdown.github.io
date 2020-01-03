@@ -23,6 +23,18 @@ $(document).ready(function() {
     }, {
         name: "Ất Tỵ",
         m1: Date.parse("Jan 29 2025 00:00:00")
+    }, {
+        name: "Bính Ngọ",
+        m1: Date.parse("Jan 17 2026 00:00:00")
+    }, {
+        name: "Đinh Mùi",
+        m1: Date.parse("Feb 6 2027 00:00:00")
+    }, {
+        name: "Mậu Thân",
+        m1: Date.parse("Jan 26 2028 00:00:00")
+    }, {
+        name: "Kỷ Dậu",
+        m1: Date.parse("Feb 13 2029 00:00:00")
     }]
       , e = t.length;
     setInterval(function() {
